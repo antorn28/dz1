@@ -1,3 +1,5 @@
+# перше завдання
+
 class Animal:
     habitat = "Unknown"
 
